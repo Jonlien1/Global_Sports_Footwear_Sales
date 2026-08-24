@@ -1,3 +1,4 @@
 # Global_Sports_Footwear_Sales
 
-<img width="888" height="816" alt="Global Sports Footwear Sales" src="https://github.com/user-attachments/assets/12735460-20c9-45c9-a2f5-3fe171982b74" />
+<img width="1076" height="463" alt="Screen Shot 2026-08-24 at 2 27 24 PM" src="https://github.com/user-attachments/assets/36d24e21-acc0-408d-9a7f-2029c876f259" />
+
