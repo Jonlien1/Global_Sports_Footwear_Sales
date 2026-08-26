@@ -77,3 +77,17 @@ Includes 5 core queries mapped to each business question above, plus a bonus que
 ## Limitations & Next Steps
 - Country-level analysis (6 countries in the dataset) was not a core focus but could be a natural extension of this project
 - Future iterations could incorporate time-based trend analysis using `order_date`, which wasn't part of the current business questions
+
+## Repository Structure
+```
+Global_Sports_Footwear_Sales/
+├── README.md
+├── queries.sql
+├── cleaned_data.csv
+└── images/
+    ├── excel-dashboard-1.png
+    ├── excel-dashboard-2.png
+    ├── excel-dashboard-3.png
+    ├── looker-page1.png
+    └── looker-page2.png
+```
