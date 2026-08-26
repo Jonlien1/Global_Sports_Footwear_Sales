@@ -41,8 +41,22 @@ No meaningful differentiation — average price and discount level were consiste
 ## Key Takeaway
 **Brand identity, not customer segment, drives pricing and purchasing behavior in this dataset.** Income level, sales channel, and customer rating showed no meaningful influence on price or brand choice — but real differentiation exists at the brand level, with Nike showing premium positioning, ASICS leading on volume, and Puma showing distinct discount sensitivity.
 
+### Excel Dashboard
 
-<img width="1066" height="462" alt="Screen Shot 2026-08-24 at 2 34 23 PM" src="https://github.com/user-attachments/assets/328da947-e692-4d74-bd42-b4c417d07fe9" /> <img width="617" height="371" alt="Screen Shot 2026-08-24 at 5 43 49 PM" src="https://github.com/user-attachments/assets/9700d27e-85f4-403f-ad2f-fdcd937af037" />
-<img width="720" height="184" alt="Screen Shot 2026-08-24 at 5 47 22 PM" src="https://github.com/user-attachments/assets/513afc6c-6002-4757-9dad-5758fe8e9d33" />
+<p align="center">
+  <<img width="1066" height="462" alt="Dashboard_Image_01" src="https://github.com/user-attachments/assets/3078fc77-151e-44d6-9433-0c7357a6af59" />>
+  <em>Title, KPI cards, and brand comparison charts</em>
+</p>
+
+<p align="center">
+  <<img width="617" height="371" alt="Dashboard_Image_02" src="https://github.com/user-attachments/assets/88168c5b-8973-413e-9da6-20440e31a5e9" />><br>
+  <em>Discount vs. revenue trend</em>
+</p>
+
+<p align="center">
+  <<img width="720" height="184" alt="Dashboard_Image_03" src="https://github.com/user-attachments/assets/16d63f38-a739-4c8b-b102-211ac2ee6379" />><br>
+  <em>Segment consistency summary</em>
+</p>
+
 
 
