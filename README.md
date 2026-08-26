@@ -55,8 +55,86 @@ No meaningful differentiation — average price and discount level were consiste
 
 <p align="center">
   <<img width="720" height="184" alt="Dashboard_Image_03" src="https://github.com/user-attachments/assets/16d63f38-a739-4c8b-b102-211ac2ee6379" />><br>
+  
+### Looker Studio Dashboard
+[View live dashboard](YOUR_LOOKER_STUDIO_LINK_HERE)
+
+**Page 1 — Brand Overview**
+![Looker Page 1](./images/looker-page1.png)
+
+**Page 2 — Discount & Segment Analysis**
+![Looker Page 2](./images/looker-page2.png)
+
+## SQL Analysis
+Full queries: [queries.sql](./queries.sql)
+
+Includes 5 core queries mapped to each business question above, plus a bonus query using a **CTE and window functions (`RANK()`)** to rank brands by total revenue and revenue-per-unit side by side — directly surfacing the Nike/ASICS positioning mismatch found in Question 1.
+
+**Data note:** price and revenue columns were imported from CSV with embedded currency symbols (e.g., `"$245.50"`), which caused aggregate functions to silently return 0. Diagnosed using `typeof()` and `hex()`, then resolved with `REPLACE()` + `CAST()` before analysis.
+
+## Limitations & Next Steps
+- Country-level analysis (6 countries in the dataset) was not a core focus but could be a natural extension of this project
+- Future iterations could incorporate time-based trend analysis using `order_date`, which wasn't part of the current business questions
+
+A few things to fill in/adjust on your end:
+
+Replace YOUR_LOOKER_STUDIO_LINK_HERE with your actual share link
+Confirm the image file paths match whatever folder structure you set up in your repo
+Feel free to tweak the tone/wording in the Overview or Key Takeaway sections if anything doesn't sound like your voice
+
+Want me to adjust anything before you move to setting up the GitHub repo itself?
+
+For excel dashboard Im attaching 3 separate screeshots cuz when I tried doing one full png it wasn't tooreadable
+
+I attached first image being the title, kpi box and first 2 charts.
+2nd screenshot is 3rd chart
+3rd screenshot is Segment consistency 
+
+The 2nd and 3rd screenshots are not centered in the readme. Is there a way to do so so the dashboard looks like it does in sheets?
+
+Let me know if this all makes sense too
+
+That makes complete sense — splitting into 3 screenshots for readability was the right call, and standard Markdown images default to left-aligned, which is why they're not centered.
+
+Fix: use HTML inside your Markdown file (GitHub renders HTML embedded in .md files, so this works fine):
+
+markdown
+### Excel Dashboard
+
+<p align="center">
+  <img src="./images/excel-dashboard-1.png" width="700"><br>
+  <em>Title, KPI cards, and brand comparison charts</em>
+</p>
+
+<p align="center">
+  <img src="./images/excel-dashboard-2.png" width="700"><br>
+  <em>Discount vs. revenue trend</em>
+</p>
+
+<p align="center">
+  <img src="./images/excel-dashboard-3.png" width="700"><br>
   <em>Segment consistency summary</em>
 </p>
+
+### Looker Studio Dashboard
+[View live dashboard](https://datastudio.google.com/reporting/11e25417-b3dd-40de-8d1a-10d91a2d6c12/page/8r75F)
+
+**Page 1 — Brand Overview**
+![Looker Page 1](<img width="1185" height="650" alt="looker-page1-brand-overview" src="https://github.com/user-attachments/assets/ddd9c887-2341-4bf0-8851-e5904089d53c" />)
+
+**Page 2 — Discount & Segment Analysis**
+![Looker Page 2](<img width="1193" height="882" alt="looker-page2-discount-segments" src="https://github.com/user-attachments/assets/4fdc9b18-5d84-4415-b078-feb3608e3254" />)
+
+## SQL Analysis
+Full queries: [queries.sql](./queries.sql)
+
+Includes 5 core queries mapped to each business question above, plus a bonus query using a **CTE and window functions (`RANK()`)** to rank brands by total revenue and revenue-per-unit side by side — directly surfacing the Nike/ASICS positioning mismatch found in Question 1.
+
+**Data note:** price and revenue columns were imported from CSV with embedded currency symbols (e.g., `"$245.50"`), which caused aggregate functions to silently return 0. Diagnosed using `typeof()` and `hex()`, then resolved with `REPLACE()` + `CAST()` before analysis.
+
+## Limitations & Next Steps
+- Country-level analysis (6 countries in the dataset) was not a core focus but could be a natural extension of this project
+- Future iterations could incorporate time-based trend analysis using `order_date`, which wasn't part of the current business questions
 
 
 
