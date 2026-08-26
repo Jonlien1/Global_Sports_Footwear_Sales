@@ -60,10 +60,10 @@ No meaningful differentiation — average price and discount level were consiste
 [View live dashboard](https://datastudio.google.com/reporting/11e25417-b3dd-40de-8d1a-10d91a2d6c12/page/8r75F)
 
 **Page 1 — Brand Overview**
-![Looker Page 1](./images/looker-page1.png)
+![Looker Page 1] <img width="1185" height="650" alt="looker-page1-brand-overview" src="https://github.com/user-attachments/assets/0e46c939-2649-4229-a66d-99358f74b2f7" />
 
 **Page 2 — Discount & Segment Analysis**
-![Looker Page 2](./images/looker-page2.png)
+![Looker Page 2] <img width="1193" height="882" alt="looker-page2-discount-segments" src="https://github.com/user-attachments/assets/4cdbe840-8cf7-4374-a3b6-3828dc3dfe97" />
 
 ## SQL Analysis
 Full queries: [queries.sql](./queries.sql)
