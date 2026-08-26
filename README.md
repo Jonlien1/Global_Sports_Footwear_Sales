@@ -57,7 +57,7 @@ No meaningful differentiation — average price and discount level were consiste
   <<img width="720" height="184" alt="Dashboard_Image_03" src="https://github.com/user-attachments/assets/16d63f38-a739-4c8b-b102-211ac2ee6379" />><br>
   
 ### Looker Studio Dashboard
-[View live dashboard][(YOUR_LOOKER_STUDIO_LINK_HERE)](https://datastudio.google.com/reporting/11e25417-b3dd-40de-8d1a-10d91a2d6c12/page/8r75F)
+[View live dashboard](https://datastudio.google.com/reporting/11e25417-b3dd-40de-8d1a-10d91a2d6c12/page/8r75F)
 
 **Page 1 — Brand Overview**
 ![Looker Page 1](./images/looker-page1.png)
