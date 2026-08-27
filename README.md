@@ -65,7 +65,7 @@ No meaningful differentiation — average price and discount level were consiste
 <img width="1192" height="653" alt="looker-page1-brand-overview" src="https://github.com/user-attachments/assets/af0df57a-b11c-42a4-b04a-fcbe0896ffda" />
 
 **Page 2 — Discount & Segment Analysis**
-![Looker Page 2] <img width="1196" height="878" alt="looker-page2-discount-segments" src="https://github.com/user-attachments/assets/126a5fb9-4635-4179-bec3-5e7931e98494" />
+<img width="1196" height="878" alt="looker-page2-discount-segments" src="https://github.com/user-attachments/assets/126a5fb9-4635-4179-bec3-5e7931e98494" />
 
 ## SQL Analysis
 Full queries: [queries.sql](./queries.sql)
