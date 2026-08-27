@@ -49,7 +49,7 @@ No meaningful differentiation — average price and discount level were consiste
 </p>
 
 <p align="center">
-  <<img width="617" height="371" alt="Dashboard_Image_02" src="https://github.com/user-attachments/assets/88168c5b-8973-413e-9da6-20440e31a5e9" />><br>
+  <<img width="688" height="412" alt="Dashboard_Image_02" src="https://github.com/user-attachments/assets/55e245ea-6146-4a96-8652-992c566747fd" />><br>
   <em>Discount vs. revenue trend</em>
 </p>
 
