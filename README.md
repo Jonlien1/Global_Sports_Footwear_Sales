@@ -44,15 +44,13 @@ No meaningful differentiation — average price and discount level were consiste
 ### Excel Dashboard
 
 <p align="center">
-  <<img width="1066" height="462" alt="Dashboard_Image_01" src="https://github.com/user-attachments/assets/3078fc77-151e-44d6-9433-0c7357a6af59" />><br>
+  <<img width="1068" height="475" alt="Dashboard_Image_01" src="https://github.com/user-attachments/assets/83153ed3-e76a-4903-b173-e068fe6c2a40" />><br>
   <em>Title, KPI cards, and brand comparison charts</em>
 </p>
-
 <p align="center">
   <<img width="688" height="412" alt="Dashboard_Image_02" src="https://github.com/user-attachments/assets/55e245ea-6146-4a96-8652-992c566747fd" />><br>
   <em>Discount vs. revenue trend</em>
 </p>
-
 <p align="center">
   <<img width="720" height="184" alt="Dashboard_Image_03" src="https://github.com/user-attachments/assets/16d63f38-a739-4c8b-b102-211ac2ee6379" />><br>
   <em>Segment consistency summary</em>
