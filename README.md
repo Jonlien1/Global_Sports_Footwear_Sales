@@ -44,7 +44,7 @@ No meaningful differentiation — average price and discount level were consiste
 ### Excel Dashboard
 
 <p align="center">
-  <<img width="1068" height="475" alt="Dashboard_Image_01" src="https://github.com/user-attachments/assets/83153ed3-e76a-4903-b173-e068fe6c2a40" />><br>
+  <<img width="1098" height="470" alt="Dashboard_Image_01" src="https://github.com/user-attachments/assets/11f99a7c-cf41-4863-a1c2-b3e3f40cc1f6" />><br>
   <em>Title, KPI cards, and brand comparison charts</em>
 </p>
 <p align="center">
