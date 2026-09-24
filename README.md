@@ -72,6 +72,9 @@ Includes 5 core queries mapped to each business question above, plus a bonus que
 
 **Data note:** price and revenue columns were imported from CSV with embedded currency symbols (e.g., `"$245.50"`), which caused aggregate functions to silently return 0. Diagnosed using `typeof()` and `hex()`, then resolved with `REPLACE()` + `CAST()` before analysis.
 
+## AI Collaboration
+AI tools (Claude/ChatGPT) were used throughout this project to speed up parts of the workflow — drafting initial SQL query logic, acting as a second set of eyes on formula accuracy, and helping fine-tune this README. AI-generated output was never taken at face value: while reviewing the AI-assisted dashboard work, I caught a chart that didn't match the underlying data, traced the discrepancy back to its source, and corrected it before finalizing the dashboard. That review step reflects how I approach AI collaboration generally — useful for speed and a second perspective, but verification against the raw data is always the final check before anything ships.
+
 ## Limitations & Next Steps
 - Country-level analysis (6 countries in the dataset) was not a core focus but could be a natural extension of this project
 - Future iterations could incorporate time-based trend analysis using `order_date`, which wasn't part of the current business questions
